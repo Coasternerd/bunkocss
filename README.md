@@ -4,7 +4,7 @@ A quick and easy css scaffolding for any web project. It includes a few utility 
 
 ## Installation
 
-Of course, you can clone or download the repo.
+Of course, you can clone or download the repo or use the rawgit files listed below.
 
 ### RawGit
 
