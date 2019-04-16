@@ -4,17 +4,17 @@ A quick and easy css scaffolding for any web project. It includes a few utility 
 
 ## Installation
 
-Of course, you can clone or download the repo or use the rawgit files listed below.
+Of course, you can clone or download the repo or use the jsDelivr files listed below.
 
-### RawGit
+### jsDelivr
 
 Bunko CSS
 
-`https://cdn.rawgit.com/joemalott/BunkoCSS/master/bunko.css`
+`https://cdn.jsdelivr.net/gh/joemalott/BunkoCSS@master/bunko.css`
 
 
 Minified
 
-`https://cdn.rawgit.com/joemalott/BunkoCSS/master/bunko-min.css`
+`https://cdn.jsdelivr.net/gh/joemalott/BunkoCSS@master/bunko-min.css`
 
 
